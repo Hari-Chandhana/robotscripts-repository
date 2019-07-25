@@ -1,2 +1,2 @@
 
-THis is new demo for repository creation
+This is new demo for repository creation
